@@ -1,0 +1,10 @@
+The Rational Unified Process (RUP) is a modern generic process model that is organized into phases ( inception, elaboration, construction and, transition) but separates activities ( requirements, analysis and design , etc.)from these phases.
+It is different from other software development models because it separates activities (requirements, analysis and design) from its phases thus, inception, elaboration, construction and, transition .
+The key phases in the Rational Unified Process is inception, elaboration, construction and transition.
+
+It has some benefits. This includes:
+I. Develop software iteratively: plan  increments based on customer priorities and deliver higher priority increments first.
+II. Manage requirements: Explicitly document customer requirements and keep track of changes to these requirements.
+The drawbacks of Rational Unified Process include:
+I. Possible to create moving target problems.
+II. It is expensive.
